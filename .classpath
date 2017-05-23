@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="template-projekt/src"/>
+	<classpathentry kind="lib" path="template-projekt/lib/bwmirror_v2_5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="template-projekt/bin"/>
+</classpath>
